@@ -1,4 +1,4 @@
-# rikitiki
+# rikitiki!
 
 A new Flutter project.
 
